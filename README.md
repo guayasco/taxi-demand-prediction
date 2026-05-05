@@ -104,7 +104,7 @@ Project requirement:
 
 ✅ The final model achieved:
 
-- **RMSE: [YOUR FINAL VALUE HERE]**
+- **RMSE: 42.62**
 
 This meets the project constraint and demonstrates strong predictive performance.
 
